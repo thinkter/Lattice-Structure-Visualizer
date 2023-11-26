@@ -1,0 +1,16 @@
+positions = [(1, -1, -1), (1, 1, -1), (-1, 1, -1), (-1, -1, -1), (1, -1, 1), (1, 1, 1), (-1, -1, 1), (-1, 1, 1)]
+
+
+face centric
+BODYCENTRIC
+
+
+in data.csv 
+1 -8 has vertices
+9-20 has edges
+21-27 has face vertices
+28 has the radius value
+
+
+BCC DOESNT WORK DONE
+MAKE RADIUS CHANGING AND SAVING

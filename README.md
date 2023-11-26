@@ -1,2 +1,6 @@
-# Lattice-Structure-Visualizer
-This was my grade 12 CBSE Project using python, pyopengl with pygame and used csv and text files to read and write data.
+# OPENGL_FCCBCCLATTICE
+ 
+This is my class 12 CBSE project blah blah lattic structures
+
+
+*PEEP ON DEEZ NUTZ*
