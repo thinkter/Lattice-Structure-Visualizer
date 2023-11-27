@@ -7,12 +7,12 @@ with open('data.csv', 'r') as csvfile:
 
 
     for row in reader:
-    	k =[]
-    	for i in row:
-    		l = int(i)
-    		k.append(l)
-    	f = tuple(k)	
-    	_A.append(f)
+        k = []
+        for i in row:
+            l = int(i)
+            k.append(l)
+        f = tuple(k)
+        _A.append(f)
 
 a = tuple(_A)
 
